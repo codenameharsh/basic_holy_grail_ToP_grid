@@ -9,8 +9,8 @@ html {
   height: 100%;
   padding: 16px;
   display: grid;
-  grid-template-columns: 30vw 70vw;
-  grid-template-rows: 15vh 15vh 55vh 15vh;
+  grid-template-columns: 10fr 30fr;
+  grid-template-rows: 10fr 10fr 70fr 10fr;
   grid-template-areas: 
     "header header"
     "sidebar nav"
